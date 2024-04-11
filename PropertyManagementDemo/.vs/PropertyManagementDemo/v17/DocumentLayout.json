@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\LeviTask\\PropertyManament\\PropertyManagementDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B094CAD9-ADA5-4ECD-94D8-B070322BC66A}|PropertyManagementDemo\\PropertyManagementDemo.csproj|d:\\projects\\levitask\\propertymanament\\propertymanagementdemo\\propertymanagementdemo\\controllers\\propertycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B094CAD9-ADA5-4ECD-94D8-B070322BC66A}|PropertyManagementDemo\\PropertyManagementDemo.csproj|solutionrelative:propertymanagementdemo\\controllers\\propertycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC531106-3612-4515-B04B-7B57EF467421}|PropertyManagementDemo.Services\\PropertyManagementDemo.Services.csproj|d:\\projects\\levitask\\propertymanament\\propertymanagementdemo\\propertymanagementdemo.services\\propertyservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC531106-3612-4515-B04B-7B57EF467421}|PropertyManagementDemo.Services\\PropertyManagementDemo.Services.csproj|solutionrelative:propertymanagementdemo.services\\propertyservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC531106-3612-4515-B04B-7B57EF467421}|PropertyManagementDemo.Services\\PropertyManagementDemo.Services.csproj|d:\\projects\\levitask\\propertymanament\\propertymanagementdemo\\propertymanagementdemo.services\\iservice\\ipropertyservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC531106-3612-4515-B04B-7B57EF467421}|PropertyManagementDemo.Services\\PropertyManagementDemo.Services.csproj|solutionrelative:propertymanagementdemo.services\\iservice\\ipropertyservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8CAD2A-16A2-44B6-BBFB-B1522FA47679}|PropertyManagementDemo.Repositories\\PropertyManagementDemo.Repositories.csproj|d:\\projects\\levitask\\propertymanament\\propertymanagementdemo\\propertymanagementdemo.repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8CAD2A-16A2-44B6-BBFB-B1522FA47679}|PropertyManagementDemo.Repositories\\PropertyManagementDemo.Repositories.csproj|solutionrelative:propertymanagementdemo.repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B094CAD9-ADA5-4ECD-94D8-B070322BC66A}|PropertyManagementDemo\\PropertyManagementDemo.csproj|d:\\projects\\levitask\\propertymanament\\propertymanagementdemo\\propertymanagementdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B094CAD9-ADA5-4ECD-94D8-B070322BC66A}|PropertyManagementDemo\\PropertyManagementDemo.csproj|solutionrelative:propertymanagementdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8CAD2A-16A2-44B6-BBFB-B1522FA47679}|PropertyManagementDemo.Repositories\\PropertyManagementDemo.Repositories.csproj|d:\\projects\\levitask\\propertymanament\\propertymanagementdemo\\propertymanagementdemo.repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8CAD2A-16A2-44B6-BBFB-B1522FA47679}|PropertyManagementDemo.Repositories\\PropertyManagementDemo.Repositories.csproj|solutionrelative:propertymanagementdemo.repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81941F7A-E161-4497-9343-E34CAE01E6F8}|PropertyManagementDemo.Domain\\PropertyManagementDemo.Domain.csproj|d:\\projects\\levitask\\propertymanament\\propertymanagementdemo\\propertymanagementdemo.domain\\model\\propertymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81941F7A-E161-4497-9343-E34CAE01E6F8}|PropertyManagementDemo.Domain\\PropertyManagementDemo.Domain.csproj|solutionrelative:propertymanagementdemo.domain\\model\\propertymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B094CAD9-ADA5-4ECD-94D8-B070322BC66A}|PropertyManagementDemo\\PropertyManagementDemo.csproj|d:\\projects\\levitask\\propertymanament\\propertymanagementdemo\\propertymanagementdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B094CAD9-ADA5-4ECD-94D8-B070322BC66A}|PropertyManagementDemo\\PropertyManagementDemo.csproj|solutionrelative:propertymanagementdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81941F7A-E161-4497-9343-E34CAE01E6F8}|PropertyManagementDemo.Domain\\PropertyManagementDemo.Domain.csproj|d:\\projects\\levitask\\propertymanament\\propertymanagementdemo\\propertymanagementdemo.domain\\propertymanagementdemo.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{81941F7A-E161-4497-9343-E34CAE01E6F8}|PropertyManagementDemo.Domain\\PropertyManagementDemo.Domain.csproj|solutionrelative:propertymanagementdemo.domain\\propertymanagementdemo.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81941F7A-E161-4497-9343-E34CAE01E6F8}|PropertyManagementDemo.Domain\\PropertyManagementDemo.Domain.csproj|d:\\projects\\levitask\\propertymanament\\propertymanagementdemo\\propertymanagementdemo.domain\\model\\propertydetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81941F7A-E161-4497-9343-E34CAE01E6F8}|PropertyManagementDemo.Domain\\PropertyManagementDemo.Domain.csproj|solutionrelative:propertymanagementdemo.domain\\model\\propertydetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PropertyController.cs",
+              "DocumentMoniker": "D:\\Projects\\LeviTask\\PropertyManament\\PropertyManagementDemo\\PropertyManagementDemo\\Controllers\\PropertyController.cs",
+              "RelativeDocumentMoniker": "PropertyManagementDemo\\Controllers\\PropertyController.cs",
+              "ToolTip": "D:\\Projects\\LeviTask\\PropertyManament\\PropertyManagementDemo\\PropertyManagementDemo\\Controllers\\PropertyController.cs",
+              "RelativeToolTip": "PropertyManagementDemo\\Controllers\\PropertyController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAnwCsAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T04:14:21.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\LeviTask\\PropertyManament\\PropertyManagementDemo\\PropertyManagementDemo.Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "PropertyManagementDemo.Repositories\\IRepository.cs",
+              "ToolTip": "D:\\Projects\\LeviTask\\PropertyManament\\PropertyManagementDemo\\PropertyManagementDemo.Repositories\\IRepository.cs",
+              "RelativeToolTip": "PropertyManagementDemo.Repositories\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T04:14:22.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\Projects\\LeviTask\\PropertyManament\\PropertyManagementDemo\\PropertyManagementDemo.Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "PropertyManagementDemo.Repositories\\Repository.cs",
+              "ToolTip": "D:\\Projects\\LeviTask\\PropertyManament\\PropertyManagementDemo\\PropertyManagementDemo.Repositories\\Repository.cs",
+              "RelativeToolTip": "PropertyManagementDemo.Repositories\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T04:14:22.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PropertyServices.cs",
+              "DocumentMoniker": "D:\\Projects\\LeviTask\\PropertyManament\\PropertyManagementDemo\\PropertyManagementDemo.Services\\PropertyServices.cs",
+              "RelativeDocumentMoniker": "PropertyManagementDemo.Services\\PropertyServices.cs",
+              "ToolTip": "D:\\Projects\\LeviTask\\PropertyManament\\PropertyManagementDemo\\PropertyManagementDemo.Services\\PropertyServices.cs",
+              "RelativeToolTip": "PropertyManagementDemo.Services\\PropertyServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T04:14:22.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPropertyServices.cs",
+              "DocumentMoniker": "D:\\Projects\\LeviTask\\PropertyManament\\PropertyManagementDemo\\PropertyManagementDemo.Services\\IService\\IPropertyServices.cs",
+              "RelativeDocumentMoniker": "PropertyManagementDemo.Services\\IService\\IPropertyServices.cs",
+              "ToolTip": "D:\\Projects\\LeviTask\\PropertyManament\\PropertyManagementDemo\\PropertyManagementDemo.Services\\IService\\IPropertyServices.cs",
+              "RelativeToolTip": "PropertyManagementDemo.Services\\IService\\IPropertyServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T04:14:22.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PropertyDetail.cs",
+              "DocumentMoniker": "D:\\Projects\\LeviTask\\PropertyManament\\PropertyManagementDemo\\PropertyManagementDemo.Domain\\Model\\PropertyDetail.cs",
+              "RelativeDocumentMoniker": "PropertyManagementDemo.Domain\\Model\\PropertyDetail.cs",
+              "ToolTip": "D:\\Projects\\LeviTask\\PropertyManament\\PropertyManagementDemo\\PropertyManagementDemo.Domain\\Model\\PropertyDetail.cs",
+              "RelativeToolTip": "PropertyManagementDemo.Domain\\Model\\PropertyDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T04:14:22.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PropertyManagementDemo.Domain.csproj",
+              "DocumentMoniker": "D:\\Projects\\LeviTask\\PropertyManament\\PropertyManagementDemo\\PropertyManagementDemo.Domain\\PropertyManagementDemo.Domain.csproj",
+              "RelativeDocumentMoniker": "PropertyManagementDemo.Domain\\PropertyManagementDemo.Domain.csproj",
+              "ToolTip": "D:\\Projects\\LeviTask\\PropertyManament\\PropertyManagementDemo\\PropertyManagementDemo.Domain\\PropertyManagementDemo.Domain.csproj",
+              "RelativeToolTip": "PropertyManagementDemo.Domain\\PropertyManagementDemo.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-10T04:14:22.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\LeviTask\\PropertyManament\\PropertyManagementDemo\\PropertyManagementDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "PropertyManagementDemo\\appsettings.json",
+              "ToolTip": "D:\\Projects\\LeviTask\\PropertyManament\\PropertyManagementDemo\\PropertyManagementDemo\\appsettings.json",
+              "RelativeToolTip": "PropertyManagementDemo\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-10T04:14:22.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\LeviTask\\PropertyManament\\PropertyManagementDemo\\PropertyManagementDemo\\Program.cs",
+              "RelativeDocumentMoniker": "PropertyManagementDemo\\Program.cs",
+              "ToolTip": "D:\\Projects\\LeviTask\\PropertyManament\\PropertyManagementDemo\\PropertyManagementDemo\\Program.cs",
+              "RelativeToolTip": "PropertyManagementDemo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T04:14:22.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PropertyManager.cs",
+              "DocumentMoniker": "D:\\Projects\\LeviTask\\PropertyManament\\PropertyManagementDemo\\PropertyManagementDemo.Domain\\Model\\PropertyManager.cs",
+              "RelativeDocumentMoniker": "PropertyManagementDemo.Domain\\Model\\PropertyManager.cs",
+              "ToolTip": "D:\\Projects\\LeviTask\\PropertyManament\\PropertyManagementDemo\\PropertyManagementDemo.Domain\\Model\\PropertyManager.cs",
+              "RelativeToolTip": "PropertyManagementDemo.Domain\\Model\\PropertyManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T04:14:22.515Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
